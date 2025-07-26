@@ -18,7 +18,6 @@ The system outputs a ranked list of important sections and subsections.
 
 ---
 
-## Input / Output
 ```
 ### Input:
 1. 3-10 PDFs in `/app/input`
